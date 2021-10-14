@@ -28,10 +28,10 @@ var config = {
         turn_on: "start",
         play: "BGM",
         bannar_coming: "color",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        balloons_flying: "WAIT!",
+        cake_fadein: "WHERE IS CAKE？",
+        light_candle: "HANDLE？",
+        wish_message: "HAPPY BIRTHDAY!",
         story: "A MESSAGE FOR YOU",
     }
 };
